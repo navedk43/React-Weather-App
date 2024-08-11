@@ -1,3 +1,31 @@
+# Weather Forecasting Application
+
+A weather forecasting application built with React.js that allows users to search for and view current weather details of any city. The app fetches real-time weather data from a third-party API and displays detailed information including temperature, humidity, and weather conditions.
+
+## Features
+
+- **Real-Time Weather Data:** Fetches and displays up-to-date weather information for any city.
+- **Responsive Design:** Ensures compatibility across various devices.
+- **Search Functionality:** Users can search for specific cities to get weather details.
+
+## Technologies Used
+
+- React.js
+- HTML5
+- CSS3
+- Third-Party Weather API
+
+## Usage
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/navedk43/weather-app.git
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
